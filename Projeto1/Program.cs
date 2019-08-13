@@ -6,6 +6,7 @@ namespace Projeto1 {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Como vc está hoje? ");
             Console.WriteLine("Tenha um bom dia!");
+            Console.WriteLine("Tchau!");
         }
     }
 }
